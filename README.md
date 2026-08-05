@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubhangi Khanse</h1>
+<h1 align="center">Hi , I'm Shubhangi Khanse</h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;CSE+Student+%40+DBATU;Python+%7C+SQL+%7C+Power+BI;ML+%26+Interactive+Dashboards" alt="Typing SVG" /></a>
@@ -55,7 +55,7 @@ Results-driven **Aspiring Data Analyst** and Computer Science & Engineering stud
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
   <tr>
@@ -92,7 +92,7 @@ Results-driven **Aspiring Data Analyst** and Computer Science & Engineering stud
 
 ---
 
-## 📜 Certifications & Honors
+## Certifications & Honors
 
 - 🏆 **NPTEL Elite Certification:** Database Management System (DBMS)
 - 🐍 **Infosys Springboard:** Python Programming Certification
@@ -101,10 +101,10 @@ Results-driven **Aspiring Data Analyst** and Computer Science & Engineering stud
 
 ---
 
-## 🏏 Extracurricular & Leadership
+## Extracurricular & Leadership
 
-- 🏏 **Vice-Captain – College Cricket Team:** Led team strategy, match logistics, and strategic communication.
-- 🤝 **Technical Event Volunteer:** Coordinated logistics and stage management for university technical fests.
+- **Vice-Captain – College Cricket Team:** Led team strategy, match logistics, and strategic communication.
+- **Technical Event Volunteer:** Coordinated logistics and stage management for university technical fests.
 
 ---
 
