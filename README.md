@@ -28,7 +28,7 @@ Results-driven **Aspiring Data Analyst** and Computer Science & Engineering stud
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -36,7 +36,7 @@ Results-driven **Aspiring Data Analyst** and Computer Science & Engineering stud
   </a>
 </p>
 
-### 🔬 Analytics & Machine Learning
+### Analytics & Machine Learning
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org)
@@ -44,11 +44,11 @@ Results-driven **Aspiring Data Analyst** and Computer Science & Engineering stud
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)](https://matplotlib.org)
 [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)](https://seaborn.pydata.org)
 
-### 🗄️ Databases & Querying
+### Databases & Querying
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://sql.org)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com)
 
-### 📊 Business Intelligence & Reporting
+### Business Intelligence & Reporting
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](https://tableau.com)
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://office.com)
@@ -94,10 +94,10 @@ Results-driven **Aspiring Data Analyst** and Computer Science & Engineering stud
 
 ## Certifications & Honors
 
-- 🏆 **NPTEL Elite Certification:** Database Management System (DBMS)
-- 🐍 **Infosys Springboard:** Python Programming Certification
-- 🗄️ **HackerRank:** SQL Certification (Advanced)
-- 🐙 **LinkedIn Learning:** Git & GitHub Essential Training
+-  **NPTEL Elite Certification:** Database Management System (DBMS)
+-  **Infosys Springboard:** Python Programming Certification
+-  **HackerRank:** SQL Certification (Advanced)
+-  **LinkedIn Learning:** Git & GitHub Essential Training
 
 ---
 
@@ -108,7 +108,7 @@ Results-driven **Aspiring Data Analyst** and Computer Science & Engineering stud
 
 ---
 
-## 📈 GitHub Activity & Stats Summary
+## GitHub Activity & Stats Summary
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active_Contributor-brightgreen?style=for-the-badge&logo=github" alt="Status" />
@@ -119,15 +119,15 @@ Results-driven **Aspiring Data Analyst** and Computer Science & Engineering stud
 <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <h4>🔍 Data Analysis</h4>
+      <h4>Data Analysis</h4>
       <p>Pandas, NumPy, EDA, Data Wrangling, Excel</p>
     </td>
     <td width="33%" align="center">
-      <h4>🤖 Machine Learning</h4>
+      <h4>Machine Learning</h4>
       <p>Classification, Scikit-learn, Churn Modeling</p>
     </td>
     <td width="33%" align="center">
-      <h4>📊 Business Intelligence</h4>
+      <h4>Business Intelligence</h4>
       <p>Power BI Dashboards, Tableau, SQL KPIs</p>
     </td>
   </tr>
@@ -135,7 +135,7 @@ Results-driven **Aspiring Data Analyst** and Computer Science & Engineering stud
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shubhangi-khanse-775a2628b">
@@ -147,5 +147,5 @@ Results-driven **Aspiring Data Analyst** and Computer Science & Engineering stud
 </p>
 
 <p align="center">
-  <i>"Transforming data into insights, one dataset at a time."</i> ✨
+  <i>"Transforming data into insights, one dataset at a time."</i> 
 </p>
