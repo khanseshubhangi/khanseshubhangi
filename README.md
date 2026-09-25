@@ -103,7 +103,7 @@ Results-driven **Aspiring Data Analyst** and Computer Science & Engineering stud
 
 ## Extracurricular & Leadership
 
-- **Vice-Captain – College Cricket Team:** Led team strategy, match logistics, and strategic communication.
+
 - **Technical Event Volunteer:** Coordinated logistics and stage management for university technical fests.
 
 ---
